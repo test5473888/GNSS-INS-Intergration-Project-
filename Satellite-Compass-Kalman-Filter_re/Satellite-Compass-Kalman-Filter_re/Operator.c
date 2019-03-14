@@ -1,5 +1,5 @@
 /*
-matrix operate : mul,inverse(gaussj),Transpose
+matrix operate : mul,inverse(gaussj),Transpose,Plus,Minus
 generate ramdom varible
 and two test function
 */
@@ -213,11 +213,11 @@ void test_matopr() {
 	x[0] = (double*)malloc(sq_nsize * sizeof(double)), x[1] = (double*)malloc(sq_nsize * sizeof(double));
 	
 
-	//Âà¸m¯x°}
+	//Ã‚Ã Â¸mÂ¯xÂ°}
 	mat_trans(A, At, 3, 2);
 	MatrixMul(At, 2, 3, A,3, 2,N);
 
-	//°f¯x°}
+	//Â°fÂ¯xÂ°}
 	gaussj(N, 2);
 	MatrixMul(At,2, 3,  L, 3, 1,x);
 	MatrixMul(N, 2, 2,  x, 2, 1, N_inv);
