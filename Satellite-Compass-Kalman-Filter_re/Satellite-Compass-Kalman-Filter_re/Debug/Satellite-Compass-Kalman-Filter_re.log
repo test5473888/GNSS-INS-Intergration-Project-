@@ -1,0 +1,28 @@
+﻿  main.c
+c:\users\gnss\desktop\project\study code\cproject\satellite-compass-kalman-filter_re\satellite-compass-kalman-filter_re\main.c(88): warning C4047: '函式': 'double **' 與 'double *' 間接取值的層級不同
+c:\users\gnss\desktop\project\study code\cproject\satellite-compass-kalman-filter_re\satellite-compass-kalman-filter_re\main.c(88): warning C4024: 'KF_set_process': 型式和實質參數 5 不同的類型
+c:\users\gnss\desktop\project\study code\cproject\satellite-compass-kalman-filter_re\satellite-compass-kalman-filter_re\main.c(104): warning C4047: '函式': 'double **' 與 'double *' 間接取值的層級不同
+c:\users\gnss\desktop\project\study code\cproject\satellite-compass-kalman-filter_re\satellite-compass-kalman-filter_re\main.c(104): warning C4024: 'KF_set_process': 型式和實質參數 5 不同的類型
+c:\users\gnss\desktop\project\study code\cproject\satellite-compass-kalman-filter_re\satellite-compass-kalman-filter_re\main.c(107): warning C4047: '函式': 'double *' 與 'double **' 間接取值的層級不同
+c:\users\gnss\desktop\project\study code\cproject\satellite-compass-kalman-filter_re\satellite-compass-kalman-filter_re\main.c(107): warning C4024: 'KF_set_measure': 型式和實質參數 4 不同的類型
+c:\users\gnss\desktop\project\study code\cproject\satellite-compass-kalman-filter_re\satellite-compass-kalman-filter_re\main.c(36): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 請參閱 'fopen' 的宣告
+c:\users\gnss\desktop\project\study code\cproject\satellite-compass-kalman-filter_re\satellite-compass-kalman-filter_re\main.c(37): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 請參閱 'fopen' 的宣告
+c:\users\gnss\desktop\project\study code\cproject\satellite-compass-kalman-filter_re\satellite-compass-kalman-filter_re\main.c(38): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 請參閱 'fopen' 的宣告
+c:\users\gnss\desktop\project\study code\cproject\satellite-compass-kalman-filter_re\satellite-compass-kalman-filter_re\main.c(78): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note: 請參閱 'sscanf' 的宣告
+c:\users\gnss\desktop\project\study code\cproject\satellite-compass-kalman-filter_re\satellite-compass-kalman-filter_re\main.c(79): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note: 請參閱 'sscanf' 的宣告
+c:\users\gnss\desktop\project\study code\cproject\satellite-compass-kalman-filter_re\satellite-compass-kalman-filter_re\main.c(94): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note: 請參閱 'sscanf' 的宣告
+c:\users\gnss\desktop\project\study code\cproject\satellite-compass-kalman-filter_re\satellite-compass-kalman-filter_re\main.c(96): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note: 請參閱 'sscanf' 的宣告
+c:\users\gnss\desktop\project\study code\cproject\satellite-compass-kalman-filter_re\satellite-compass-kalman-filter_re\main.c(33): warning C4101: 'line': 未參考的區域變數
+c:\users\gnss\desktop\project\study code\cproject\satellite-compass-kalman-filter_re\satellite-compass-kalman-filter_re\main.c(39): warning C4101: 'degree': 未參考的區域變數
+c:\users\gnss\desktop\project\study code\cproject\satellite-compass-kalman-filter_re\satellite-compass-kalman-filter_re\main.c(41): warning C4101: 'buff': 未參考的區域變數
+c:\users\gnss\desktop\project\study code\cproject\satellite-compass-kalman-filter_re\satellite-compass-kalman-filter_re\main.c(140): warning C4047: '=': 'double *' 與 'double **' 間接取值的層級不同
+c:\users\gnss\desktop\project\study code\cproject\satellite-compass-kalman-filter_re\satellite-compass-kalman-filter_re\main.c(190): warning C4047: '=': 'double **' 與 'double *' 間接取值的層級不同
+c:\users\gnss\desktop\project\study code\cproject\satellite-compass-kalman-filter_re\satellite-compass-kalman-filter_re\main.c(226): warning C4013: 'gaussj' 未定義; 假設 extern 傳回整數
+  Satellite-Compass-Kalman-Filter_re.vcxproj -> C:\Users\GNSS\Desktop\Project\study code\Cproject\Satellite-Compass-Kalman-Filter_re\Debug\Satellite-Compass-Kalman-Filter_re.exe
